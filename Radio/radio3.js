@@ -23,7 +23,7 @@ cancionTitulos = ["Come Together", "What a wonderful world", "Somewhere Over The
   botonadelante.onclick = function Prox() {
     
     cancionIndex++
-    if (cancionIndex > 3) {
+    if (cancionIndex > 2) {
         cancionIndex = 0
     }
     audio.src = canciones[cancionIndex]
@@ -37,7 +37,7 @@ cancionTitulos = ["Come Together", "What a wonderful world", "Somewhere Over The
     
     cancionIndex--
     if (cancionIndex < 0) {
-        cancionIndex = 3
+        cancionIndex = 2
     }
     audio.src = canciones[cancionIndex]
     cancionArtista.innerHTML = cancionArtistas[cancionIndex]
