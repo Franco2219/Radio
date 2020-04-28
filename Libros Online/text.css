@@ -1,0 +1,259 @@
+body {
+	background-color: #BECFD5;
+	left: 0;
+	right: 0;
+	border: 2px solid #F66271;
+	border-radius: 50px;
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	color: #07AD4B;
+}
+
+.argumentoelgato{
+  	line-height: 150%;
+  	font-family: helvetica;
+  	text-align: justify-all;
+  	font-size: 25px;
+  	margin: 10px;
+
+}
+.imageneslibro{
+	position: relative;
+	left: 80;
+	top:20;
+}
+
+.imageneslibro2{
+	position: absolute;
+	right: 80;
+	top:30;
+
+}
+
+.tituloelgato{
+	font-size: 25px;
+	font-stretch: ultra-expanded;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	text-decoration: underline;
+  	margin: 10px;
+}
+
+.aelgato{
+	font-size: 30px;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+.aalicia{
+	font-size: 30px;
+	text-decoration: underline;
+	margin: 10px;
+
+}
+
+.argumentoalicia{
+  	line-height: 150%;
+  	font-family: helvetica;
+  	text-align: justify-all;
+  	font-size: 25px;
+  	margin: 10px;
+
+}
+
+.titulodealicia{
+	font-size: 25px;
+	font-stretch: ultra-expanded;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	text-decoration: underline;
+  	margin: 10px;
+}
+
+.argumentoelprincipito{
+	line-height: 150%;
+  	font-family: helvetica;
+  	text-align: justify-all;
+  	font-size: 25px;
+  	margin: 10px;
+
+}
+
+.aprincipito{
+	font-size: 30px;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+.tituloprincipito{
+	font-size: 25px;
+	font-stretch: ultra-expanded;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	text-decoration: underline;
+  	margin: 10px;
+
+}
+
+.titulomentira{
+	font-size: 25px;
+	font-stretch: ultra-expanded;
+	font-family: "Latin Modern Roman 10";
+  	font-style: oblique;
+  	text-decoration: underline;
+  	margin: 10px;
+
+}
+
+.amentira{
+	font-size: 30px;
+	text-decoration: underline;
+	margin: 10px;
+
+}
+
+.argumentomentira{
+	line-height: 150%;
+  	font-family: helvetica;
+  	text-align: justify-all;
+  	font-size: 25px;
+  	margin: 10px;
+
+}
+.contenedor{
+	display: flex;
+
+
+}
+.foto1 img{
+	position: relative;
+	left: 15;
+	top:30;
+	border-radius: 50px;
+
+}
+
+.foto2 img{
+	position: absolute;
+	left: 900px;
+	top: 570px;
+}
+
+.foto3 img{
+	position: absolute;
+	left: 25px;
+	top: 570px;
+}
+
+.foto4 img{
+	position: relative;
+	left: 900px;
+	top: 500px;
+}
+
+.foto5 img{
+	position: relative;
+	left: 25px;
+	top: 255px;
+}
+
+.tituloprincipal{
+	position: absolute;
+	top: 50;
+	color: white;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 15px;
+}
+
+.intro1{
+	position: absolute;
+	top: 850;
+	margin: 15px;
+	left: 800;
+	font-family: cursive;
+  	text-align: justify-all;
+  	font-size: 15px;
+}
+
+.titulo1{
+	position: absolute;
+	top: 800;
+	margin: 15px;
+	left: 800;
+	font-family: cursive;
+  	text-align: justify-all;
+  	font-size: 20px;
+  	text-decoration: underline;
+}
+
+.titulo2{
+	position: absolute;
+	top: 800;
+	margin: 15px;
+	left: 30;
+	font-family: cursive;
+  	text-align: justify-all;
+  	font-size: 20px;
+  	text-decoration: underline;
+
+}
+
+.intro2{
+	position: absolute;
+	top: 850;
+	padding: 15px;
+	left: 30;
+	right: 750;
+	font-family: cursive;
+  	text-align: left;
+  	font-size: 15px;
+
+}
+
+.intro4{
+	position: absolute;
+	top: 1300;
+	padding: 15px;
+	left: 30;
+	right: 750;
+	font-family: cursive;
+  	text-align: left;
+  	font-size: 15px;
+}
+
+.intro3{
+	position: absolute;
+	top: 1300;
+	margin: 15px;
+	left: 800;
+	font-family: cursive;
+  	text-align: left;
+  	font-size: 15px;
+}
+
+.titulo3{
+	position: absolute;
+	top: 1250;
+	margin: 15px;
+	left: 800;
+	font-family: cursive;
+  	text-align: justify-all;
+  	font-size: 20px;
+  	text-decoration: underline;
+}
+
+.titulo4{
+	position: absolute;
+	top: 1250;
+	margin: 15px;
+	left: 30;
+	font-family: cursive;
+  	text-align: justify-all;
+  	font-size: 20px;
+  	text-decoration: underline;
+  }
