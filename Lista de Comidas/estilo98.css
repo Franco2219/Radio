@@ -1,0 +1,86 @@
+body{
+	margin: 10px;
+	padding: 0;
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	background-color: #F3A2F2;
+}
+h3{
+	color: blue;
+	font-family: "Comic Sans";
+	font-size: 30px;
+	text-decoration-line: underline;
+}
+
+h1{
+	color: #000;
+	font-family: "Comic Sans";
+	font-size: 50px;
+	text-align: center;
+	background-color: #F4E4F4;
+	border-radius: 30px;
+	box-shadow: 0px 8px #FED840;
+}
+
+.boton1{
+	border-width: 5px;
+}
+
+.invalidinput{
+	background: red;
+	width: 25%;
+}
+
+.input{
+	background-color: #F4E4F4;
+	width: 25%;
+}
+.invalidinput2{
+	background: red;
+	width: 25%;
+}
+.input2{
+	background-color: #F4E4F4;
+	width: 25%;
+}
+.input3{
+	background-color: #F4E4F4;
+	width: 25%;
+}
+
+.lista {
+	font-family: "Comic Sans";
+	font-size: 25px;
+	border: solid;
+    border-width: thin;
+    width: fit-content;
+    margin-top: 10px;
+}
+.lista2 {
+	font-family: "Comic Sans";
+	font-size: 25px;
+	border: solid;
+    border-width: thin;
+    width: fit-content;
+    margin-top: 10px;
+}
+.lista3 {
+	font-family: "Comic Sans";
+	font-size: 25px;
+	border: solid;
+    border-width: thin;
+    width: fit-content;
+    margin-top: 10px;
+}
+.button{
+	width: 20px;
+	background-color: green;
+	border: solid;
+    border-width: thin;
+    width: fit-content;
+    margin-top: 10px;
+}
+.boton4{
+	
+}
